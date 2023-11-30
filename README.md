@@ -4,7 +4,7 @@
 - 🌱 Estudando NestJS
 - 🤔 Contate-me no email: yan.devsousa@gmail.com
 
-![Yan GitHub stats](https://github-readme-stats.vercel.app/api?username=yantisousa&show_icons=true&theme=dracula&count_private=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yantisousa&show_icons=true&theme=radical)
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yantisousa&layout=compact&langs_count=6&theme="/>
 <div style="display: inline_block"><br>
